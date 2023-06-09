@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/marlonmagonjo](https://www.linkedin.com/in/marlonmagonjo)
 
-- ⚡ Fun fact **I run 5km every Saturday morning**
+- ⚡ Fun fact, **I run 5km every Saturday morning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

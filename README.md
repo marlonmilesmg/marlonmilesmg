@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/magonjomarlon" target="blank"><img src="https://img.shields.io/twitter/follow/magonjomarlon?logo=twitter&style=for-the-badge" alt="magonjomarlon" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Angular, Flutter, AWS**
+- 🌱 I’m currently learning **Java, Angular, AWS, Flutter, Dart**
 
 - 👨‍💻 All of my projects are available at [www.marlonmagonjo.co.za](www.marlonmagonjo.co.za)
 
